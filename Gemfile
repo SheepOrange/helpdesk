@@ -12,6 +12,8 @@ gem 'rails', '~> 5.0.2'
 gem 'sqlite3'
 #add bootstrap library for styles
 gem 'bootstrap-sass', '~> 3.3.6'
+#add fontawesome
+gem 'font-awesome-sass', '~> 4.7.0'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
